@@ -50,7 +50,7 @@ Uses frequency mapping to efficiently count how many times each query string occ
 
 ## HackerRank Profile
 
-**Profile:** [Add your public HackerRank profile link here]
+**Profile:** [https://www.hackerrank.com/profile/preetham_k_gmail]
 
 ## HackerRank Badge
 
